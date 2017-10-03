@@ -11,4 +11,4 @@ In this project, you’re going to take a peek into the realm of neural network 
     * encoding/decoding layer 
 * Training NN: epochs, batch_size, rnn_size, embedd..., lr. 
 * Sentence2Sequence
-* Translatw: 'he saw a old yellow truck .' => Il a vu un vieux camion jaune.
+* Translate: 'he saw a old yellow truck .' => Il a vu un vieux camion jaune.
