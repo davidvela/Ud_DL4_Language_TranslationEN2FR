@@ -15,6 +15,6 @@ In this project, you’re going to take a peek into the realm of neural network 
 
 ## Results: 
 * Fast training without GPU - 2epochs,512b,lr0.1,16rnn*2.<br>
-il conduisait la visiter voiture jaune <br>
-he was driving the yellow car <br>
+___il conduisait la visiter voiture jaune <br>
+___he was driving the yellow car <br>
 not bad... let's try a couple of more epochs with a GPU! - AWS!
