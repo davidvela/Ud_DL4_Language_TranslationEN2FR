@@ -12,3 +12,9 @@ In this project, you’re going to take a peek into the realm of neural network 
 * Training NN: epochs, batch_size, rnn_size, embedd..., lr. 
 * Sentence2Sequence
 * Translate: 'he saw a old yellow truck .' => Il a vu un vieux camion jaune.
+
+## Results: 
+* Fast training without GPU - 2epochs,512b,lr0.1,16rnn*2.<br>
+il conduisait la visiter voiture jaune <br>
+he was driving the yellow car <br>
+not bad... let's try a couple of more epochs with a GPU! - AWS!
