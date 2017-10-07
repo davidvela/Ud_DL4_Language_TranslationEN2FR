@@ -22,3 +22,6 @@ not bad... let's try a couple of more epochs with a GPU! - AWS!
 __il a vu un vieux camion jaune <br>
 __he saw a old yellow truck<br>
 Perfect! 
+
+## Material used for learning & creation of the project: 
+* udacity deep learning foundation nanodegree Unit 4 RNN - Lesson 10L Sequence to Sequence exercise =) The requirements were very similar to this project and it was a very good guide for the complition of the project! Thank you udacity =) 
