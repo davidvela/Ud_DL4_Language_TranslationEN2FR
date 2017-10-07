@@ -18,3 +18,8 @@ In this project, you’re going to take a peek into the realm of neural network 
 ___il conduisait la visiter voiture jaune <br>
 ___he was driving the yellow car <br>
 not bad... let's try a couple of more epochs with a GPU! - AWS!
+<br>
+* Train in AWS: 6epochs, 512b, lr0.005;256rnn*2<br>
+__il a vu un vieux camion jaune
+__he saw a old yellow truck
+Perfect! 
